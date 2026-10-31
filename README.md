@@ -18,7 +18,7 @@ toomanyparts (should've picked a better name) is a fully-featured, and competent
 
 ## Why?
 
-I mainly started it since I had most of the parts to build a working 3D printer except missing a couple of things, mainly hardware. So, I designed a hodgepodge of a Voron 2.4 frame, Voron Trident motion system, and Ender 3 parts.
+I mainly started it since I had most of the parts to build a working 3D printer except missing a couple of things, mainly hardware and some other parts. I didn't want them to go to waste and sit around. So, I designed a hodgepodge of a Voron 2.4 frame, Voron Trident motion system, and Ender 3 parts.
 
 ---
 
