@@ -34,7 +34,7 @@ So you don't have to flip the printer upside down every couple of months when yo
 
 **AWD Gantry:**
 
-Uses the popular [monolith gantry](https://github.com/Monolith3D/Monolith_Gantry) mod adapted to use the ender 3 motors.
+Uses the popular [monolith gantry](https://github.com/Monolith3D/Monolith_Gantry) mod, adapted to use the ender 3 motors.
 
 **Fully Enclosed (Soon):**
 
