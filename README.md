@@ -78,6 +78,12 @@ The CAD is fully available for every one to see. It can be found [here](https://
 
 ---
 
+## Wiring
+
+![Wiring Diagram](./Assets/Wiring%20Diagram.png)
+
+---
+
 ## BOM
 
 If you just happen to be in the same circumstance as I am, the BOM can be found [here](./BOM.csv).
