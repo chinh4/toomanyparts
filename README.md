@@ -50,7 +50,7 @@ No more pesky bed springs that require manual adjustment. The bed is now rigidly
 
 **Klipper:**
 
-Very customizable firmware
+Very customizable firmware with a large community, making it easy to add features to the printer.
 
 ---
 
